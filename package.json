@@ -1,0 +1,29 @@
+{
+  "name": "astro-",
+  "version": "1.0.0",
+  "description": "compiler for astro++",
+  "type": "module",
+  "main": "Astro++.js",
+  "scripts": {
+    "test": "c8 mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Funmi-idowu/Astro-.git"
+  },
+  "keywords": [
+    "compiler",
+    "ohm"
+  ],
+  "author": "Funmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Funmi-idowu/Astro-/issues"
+  },
+  "homepage": "https://github.com/Funmi-idowu/Astro-#readme",
+  "dependencies": {
+    "c8": "^9.1.0",
+    "mocha": "^10.3.0",
+    "ohm-js": "^17.1.0"
+  }
+}
